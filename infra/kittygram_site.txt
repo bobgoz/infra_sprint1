@@ -1,4 +1,4 @@
-ip: 89.169.167.56;
+IP: 89.169.167.56;
 name_taski: https://taski-test21.zapto.org/;
 name_kittygram: https://kittygram-bobgoz.duckdns.org/m;
 login: bobgoz;
