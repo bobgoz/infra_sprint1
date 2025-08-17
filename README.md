@@ -1,1 +1,2 @@
-# infra_sprint1 экспериментальное приложение для изучения Django Rest Framework
+# Infra
+Infra экспериментальное приложение для изучения Django Rest Framework
